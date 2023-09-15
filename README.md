@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Reena</h1>
 <h3 align="center">Data Scientist</h3>
-img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F3AyY&psig=AOvVaw3wlqjp8DE9tjQ76U032g4a&ust=1694875606458000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCQn-PtrIEDFQAAAAAdAAAAABAE"
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F3AyY&psig=AOvVaw3wlqjp8DE9tjQ76U032g4a&ust=1694875606458000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCQn-PtrIEDFQAAAAAdAAAAABAE">
 
 - 🔭 I build: **Prediction models, classification models and recommendation system**
 
