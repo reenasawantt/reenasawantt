@@ -1,11 +1,16 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Reena</h1>
-<h3 align="center">Data Scientist from India</h3>
+<h3 align="center">Data Scientist</h3>
 
-- 🔭 I’m currently working on **Regression ML Projects**
+- 🔭 I build: **Prediction models, classification models and recommendation system**
 
-- 👯 I’m looking to collaborate on **Gaming recommendation system**
+- 🌱Up skilling: **Deep Learning**
+
+- 👯 I’m building: **Customer Churn Prediction**
+
+- 🤝 Let's work on **Game Recommendation System**
+
+- 👨‍💻 My portfolio: [Reena Sawant](https://www.notion.so/Reena-Sawant-Data-Analyst-a4e7f1cd1c094ffa85b0d0da2c5006d3?pvs=4)
 
 - 📫 How to reach me **reenavsawantt@gmail.com**
 
