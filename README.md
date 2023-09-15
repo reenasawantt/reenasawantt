@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, I'm Reena</h1>
 <hr></hr>
 <h2 align="center">Data Scientist</h2>
-<img align="right" alt="Coding" width="400" src="C:\Users\Reena Sawant\Downloads\giphy.gif">
 
-- 🔭 I build: **Prediction models, classification models and recommendation system**
+- 🔭 I build: **Prediction Models, Classification Models and Recommendation Systems**
 
 - 🌱Up skilling: **Deep Learning**
 
