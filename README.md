@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Reena</h1>
 <hr></hr>
 <h2 align="center">Data Scientist</h2>
-<img align="right" alt="Coding" width="400" src="C:\Users\Reena Sawant\Downloads\3AyY.gif">
+<img align="right" alt="Coding" width="400" src="C:\Users\Reena Sawant\Downloads\giphy.gif">
 
 - 🔭 I build: **Prediction models, classification models and recommendation system**
 
