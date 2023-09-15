@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Reena</h1>
 <h3 align="center">Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://gifer.com/en/3AyY">
+<img align="right" alt="Coding" width="400" src="[https://gifer.com/en/3AyY](https://i.gifer.com/3AyY.gif)">
 
 - 🔭 I build: **Prediction models, classification models and recommendation system**
 
