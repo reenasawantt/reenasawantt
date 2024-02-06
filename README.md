@@ -3,7 +3,7 @@
 <hr></hr>
 <h2 align="center">Data Scientist</h2>
 
-- 🔭 I build: **Prediction Models, Classification Models and Recommendation Systems**
+- 🔭 I build: **Prediction Models& Classification Models, Time Seies Analysis and Recommendation Systems**
 
 - 🌱Up skilling: **Deep Learning**
 
