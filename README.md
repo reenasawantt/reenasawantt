@@ -3,13 +3,11 @@
 <hr></hr>
 <h2 align="center">Data Scientist</h2>
 
-- 🔭 I build: **Prediction Models& Classification Models, Time Seies Analysis and Recommendation Systems**
+- 🔭 My Expertise : **Prediction Models& Classification Models and Time Series Analysis **
 
-- 🌱Up skilling: **Deep Learning**
+- 🌱Up skilling: **Recommendar systems**
 
-- 👯 I’m building: **Customer Churn Prediction**
-
-- 🤝 Let's work on **Game Recommendation System**
+- 👯 I’m building: **Netflix Recommendation Sysytem Clone*
 
 - 👨‍💻 My portfolio: [Reena Sawant](https://www.notion.so/Reena-Sawant-Data-Analyst-a4e7f1cd1c094ffa85b0d0da2c5006d3?pvs=4)
 
